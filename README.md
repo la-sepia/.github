@@ -1,6 +1,10 @@
 # Sistema Experto Personalizado con Inteligencia Artificial (SEPIA)
 
+<div align="center">
+
 ![SEPIA](/media/sepia.jpg)
+
+</div>
 
 ## Who we are
 
